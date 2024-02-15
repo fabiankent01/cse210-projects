@@ -1,0 +1,20 @@
+    For the final project I have chosen to do a Shopping Cart Program which demonstrates the principle
+of Abstraction, Encapsulation, Inheritance, and Polymorphism. 
+    For the project milestone I have been able to make the classes which will be necessary for the 
+Shopping Cart Program:
+*Product class
+*ElectronicProduct class
+*ClothingProduct class
+*ToyProduct class
+*FurnitureProduct class
+*FoodProduct class
+*Cart class
+*ShoppingCartUI class
+*Program class(Main class)
+    I have added some additional member variables and methods which I feel could be really useful in some of the classes other than the ones in the original design.
+    These classes have been implemented with the Parent class and Inherited classes having the 
+planned member variables(attributes) and methods necessary for the program implement necessary
+functions. With the Cart class I have implemented the necessary member variables and some necessary methods(just empty shells) and even
+added some methods I feel will be useful which will with the ShoppingCartUI class to enable the Shopping Cart Program. The ShoppingCartUI takes
+just one member variable and has methods with codes(some are just empty shells) from the design already set up. Some of the methods do not have 
+any codes but have been designed.
